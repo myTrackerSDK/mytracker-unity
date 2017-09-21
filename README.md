@@ -19,6 +19,8 @@ Android 2.3
 
 iOS 7.0
 
+Unity 5.3
+
 [license-svg]: https://img.shields.io/badge/license-LGPL-lightgrey.svg
 [license-link]: https://github.com/myTrackerSDK/mytracker-unity/blob/master/LICENSE
 
