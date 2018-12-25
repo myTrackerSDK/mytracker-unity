@@ -15,7 +15,7 @@ Demo-app with examples of integration available in myTracker.unitypackage.
 
 ## Requirements
 
-Android 2.3
+Android 4.0
 
 iOS 7.0
 
