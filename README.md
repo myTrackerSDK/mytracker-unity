@@ -11,7 +11,7 @@ myTracker — free mobile analytics for iOS and Android platforms. Get connected
 
 Integration instructions are available on our [website](https://tracker.my.com/docs/).
 
-Demo-app with examples of integration available in myTracker.unitypackage.
+Demo-app with examples of integration available in [myTracker.unitypackage](https://github.com/myTrackerSDK/mytracker-unity/releases/latest).
 
 ## Requirements
 
