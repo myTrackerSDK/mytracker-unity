@@ -3,7 +3,7 @@
 ![Platforms][platforms-svg]
 [![License][license-svg]][license-link]
 
-myTracker — free mobile analytics for iOS, Android and Windows platforms. Get connected to know everything about your apps, audience and advertising campaigns.
+myTracker — free mobile analytics for iOS and Android platforms. Get connected to know everything about your apps, audience and advertising campaigns.
 
 ## Integrate
 
@@ -17,9 +17,9 @@ Demo-app with examples of integration available in myTracker.unitypackage.
 
 Android 4.0
 
-iOS 7.0
+iOS 8.0
 
-Unity 5.3
+Unity 2017.4
 
 [license-svg]: https://img.shields.io/badge/license-LGPL-lightgrey.svg
 [license-link]: https://github.com/myTrackerSDK/mytracker-unity/blob/master/LICENSE
